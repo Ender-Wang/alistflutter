@@ -1,4 +1,3 @@
-import 'dart:developer';
 
 import 'package:alist_flutter/generated_api.dart';
 import 'package:alist_flutter/pages/settings/preference_widgets.dart';

@@ -1,4 +1,3 @@
-import 'dart:developer';
 
 import 'package:alist_flutter/generated/l10n.dart';
 import 'package:alist_flutter/generated_api.dart';

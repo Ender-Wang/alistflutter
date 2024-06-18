@@ -1,17 +1,13 @@
-import 'dart:developer';
-import 'dart:io';
 
 import 'package:alist_flutter/generated_api.dart';
 import 'package:alist_flutter/pages/alist/about_dialog.dart';
 import 'package:alist_flutter/pages/alist/pwd_edit_dialog.dart';
 import 'package:alist_flutter/pages/app_update_dialog.dart';
 import 'package:alist_flutter/widgets/switch_floating_action_button.dart';
-import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../generated/l10n.dart';
-import '../../utils/intent_utils.dart';
 import 'log_list_view.dart';
 
 class AListScreen extends StatelessWidget {

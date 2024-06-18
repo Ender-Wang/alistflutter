@@ -49,6 +49,7 @@ dependencies:
   fade_indexed_stack: ^0.2.2
 
 
+  intl: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
